@@ -16,6 +16,8 @@ header nav ul{
     margin: auto;
     display: flex;
     justify-content: space-between;
+    background-color: black;
+   margin-bottom: 5%;
 }
 
 ul{
@@ -23,6 +25,11 @@ ul{
     list-style-type: none;
     gap: 20px;
     font-size:20px;
+    
+}
+
+ul a {
+    color: white;
 }
 section.primo {
     font-size:30px;
@@ -64,16 +71,14 @@ main{
     margin: auto;
 }
 
-section.doppialinea{
-    height: 30px;
-    background-color: black;
-}
+
 footer nav ul{
     max-width: 970px;
     margin: auto;
     display: flex;
     justify-content: space-between;
     font-size:20px;
+    background-color: black;
 }
 
 
