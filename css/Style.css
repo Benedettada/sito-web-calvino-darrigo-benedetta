@@ -8,6 +8,7 @@ img{
 }
 section.primo h1{
     font-size:60px;
+    margin-bottom: 0%;
     
 }
 
@@ -32,7 +33,7 @@ ul a {
     color: white;
 }
 section.primo {
-    font-size:30px;
+    font-size:20px;
     margin: auto;
 }
 div.scritte {
@@ -40,6 +41,7 @@ div.scritte {
 }
 div.scritte h3 {
     font-size:40px;
+    margin-bottom: 0%;
 }
 section.linea{
     height: 30px;
@@ -52,9 +54,11 @@ div.immagine {
 }
 div.testo {
     font-size:20px;
+    margin-bottom: 0%;
 }
 div.testo h3 {
     font-size:40px;
+    margin-bottom: 0%;
 }
 div.immagine2 {
     max-width: 100;
@@ -66,15 +70,14 @@ div.testo2 {
 }
 div.testo2 h3 {
     font-size:40px;
+    margin-bottom: 0%;
 }
 main{
     max-width: 800px;
     margin: auto;
 }
 
-section.primo h1 {
-    
-}
+
 
 
 footer nav ul{
